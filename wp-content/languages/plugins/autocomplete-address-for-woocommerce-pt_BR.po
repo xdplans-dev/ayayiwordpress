@@ -1,0 +1,37 @@
+# Translation of Plugins - Autocomplete Address for WooCommerce - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Autocomplete Address for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-02 19:58:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Autocomplete Address for WooCommerce - Stable (latest release)\n"
+
+#. Author URI of the plugin
+#: autocomplete-address-for-woocommerce.php
+msgid "https://fernandoacosta.net"
+msgstr "https://fernandoacosta.net"
+
+#. Author of the plugin
+#: autocomplete-address-for-woocommerce.php
+msgid "Fernando Acosta"
+msgstr "Fernando Acosta"
+
+#. Description of the plugin
+#: autocomplete-address-for-woocommerce.php
+msgid "Preencha automaticamente o endereço a partir do CEP no WooCommerce"
+msgstr "Preencha automaticamente o endereço a partir do CEP no WooCommerce"
+
+#. Plugin URI of the plugin
+#: autocomplete-address-for-woocommerce.php
+msgid "https://fernandoacosta.net/meus-plugins"
+msgstr "https://fernandoacosta.net/meus-plugins"
+
+#. Plugin Name of the plugin
+#: autocomplete-address-for-woocommerce.php
+msgid "Autocomplete Address for WooCommerce"
+msgstr "Preenchimento Automático de Endereço no WooCommerce"

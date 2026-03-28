@@ -1,0 +1,5 @@
+2026-02-11T01:09:01+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "10"
+2026-02-11T09:28:53+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "10"
+2026-02-11T10:56:25+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "10"
+2026-02-11T18:51:19+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "10"
+2026-02-11T21:00:49+00:00 ERROR Invalid limit type passed to wc_get_related_products. Expected integer, got string with value: "10"

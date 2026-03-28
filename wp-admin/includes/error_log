@@ -1,0 +1,4 @@
+[11-Oct-2025 21:47:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home2/arturo66/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/arturo66/public_html/wp-admin/includes/admin.php on line 16
